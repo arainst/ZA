@@ -119,6 +119,37 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b74410
 #EXTINF:-1 group-title="🔵TV LOKAL" tvg-logo="https://i.pinimg.com/236x/e7/5b/cf/e75bcfe97d6cae95f59ca836ee310459.jpg",TRANS7 B
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/85/fd/4b/85fd4b98f26c051a2a574bc3b3ecef81.jpg" tvg-url="" group-title="🔵TV LOKAL",TV 1 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://i.pinimg.com/236x/ed/bf/5f/edbf5f250052dc819aa5dee2dd81a72b.jpg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" group-title="🔵TV LOKAL",TV 2 Malaysia
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="🔵TV LOKAL" tvg-logo="https://i.pinimg.com/236x/9f/5d/fa/9f5dfaa9743f1712ad0e194b66397478.jpg",TV3 Malaysia
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:1 group-title="🔵TV LOKAL" tvg-logo="https://i.pinimg.com/236x/9f/5d/fa/9f5dfaa9743f1712ad0e194b66397478.jpg",TV3 Malaysia B
+https://raw.githubusercontent.com/romiandika93/test/main/TV3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/3f/47/2d/3f472d77f118e38de7b594f30792ce6f.jpg" group-title="🔵TV LOKAL",TV 6 Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="TV9" group-title="🔵TV LOKAL" tvg-name="TV9" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/51/2a/a1/512aa12ed5ba518d66ada277c0399e0f.jpg",TV9 Malaysia
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="🔵TV LOKAL" tvg-id="Sukmaindera" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/18/1d/64/181d64669797b1c865aee8967400d916.jpg",RTB SUKMAINDERA BRUNAI
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV"
 #EXTINF:0 tvg-id="outdoor" group-title="🔵KIDSTV",KARTUN SIS
@@ -377,6 +408,11 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
+#EXTINF:-1 group-title="🔵AGAMA" tvg-id="GoLive" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/fd/38/ef/fd38ef26e439fd225c76c4cdca5e91c7.jpg",RTB Go Live FHD religi
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵BERITA"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCBLk2T.png?v=1.0.0.1" group-title="🔵BERITA" tvg-id="BNTV" tvg-name="BN TV", BN TV
@@ -434,13 +470,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/93/9c/07/939c078143deb074669d2176003cee27.jpg" group-title="🔵BERITA", ALJAZEERA ARABIC HD
 http://khano.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e8/4f/d2/e84fd21cc11a24c57aa4f72d8e1936ef.jpg" group-title="🔵BERITA", CNBC INDONESIA
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e574e33-dea7-5e88-b5f8-7b4c189ab578)/manifest.mpd
-
-
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -498,6 +530,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2a/86/ec/2a86ec71aa28233009bf4ed132eda9ab.jpg" group-title="🔵BERITA", NHK WORLD PREMIUM
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/5d/3b/bd/5d3bbdce50006d891590a675cb7fa306.jpg" group-title="🔵BERITA",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/5c/71/da/5c71daf1755e7627a5dcc6351610f55c.jpg" group-title="🔵BERITA",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵HIBURAN"
@@ -1203,6 +1244,13 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/439157.ts
 #EXTVLCOPT:http-referrer=https://roketmotor.nontonx.com/mgpplayer1
 https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg=.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/9d/2b/e0/9d2be0ca0a0f0acc8070d5580bf54915.jpg" group-title="☆OLAHRAGA☆",SUKAN RTM SPORT
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg", AFF U 16 
+http://mkctvnew.my.id/u16.m3u8
+
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆"
@@ -1603,6 +1651,66 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED"
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED", LIVE UFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 00 :
+http://extraott.com:80/live/7921751389/6097373662/34167.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 01:
+http://extraott.com:80/live/7921751389/6097373662/34166.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 02:
+http://extraott.com:80/live/7921751389/6097373662/34165.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 03:
+http://extraott.com:80/live/7921751389/6097373662/34164.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",✦ PPV| EUROSPORT XTRA ✦
+http://extraott.com:80/live/7921751389/6097373662/400496062.m3u8
+
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="MOTOGP FEED"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="SPOTV.Id" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ON RACE
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="SPOTV.Id" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ON RACE 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",✦ MotoGP-PPV ✦
+http://extraott.com:80/live/7921751389/6097373662/5291.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: Main Race
+http://extraott.com:80/live/7921751389/6097373662/5292.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: Heli Cam
+http://extraott.com:80/live/7921751389/6097373662/5293.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: HeadCam 1
+http://extraott.com:80/live/7921751389/6097373662/5294.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: HeadCam 2
+http://extraott.com:80/live/7921751389/6097373662/5295.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: HeadCam 3
+http://extraott.com:80/live/7921751389/6097373662/5296.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP: HeadCam 4
+http://extraott.com:80/live/7921751389/6097373662/5297.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP - Commentary Feed
+http://extraott.com:80/live/7921751389/6097373662/47315.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP - Ambient Feed
+http://extraott.com:80/live/7921751389/6097373662/47316.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP -  HELI Feed
+http://extraott.com:80/live/7921751389/6097373662/47317.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP -  OB1 Feed
+http://extraott.com:80/live/7921751389/6097373662/47318.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP -  OB2 Feed
+http://extraott.com:80/live/7921751389/6097373662/47319.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP -  OB3 Feed
+http://extraott.com:80/live/7921751389/6097373662/47320.m3u8
+#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",PPV| MotoGP -  OB4 Feed
+http://extraott.com:80/live/7921751389/6097373662/47321.m3u8
 
 
 
