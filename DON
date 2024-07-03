@@ -1326,15 +1326,15 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+",TSN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+☆",TSN 1
 http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+",TSN 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+☆",TSN 2 HD
 http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+",TSN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+☆",TSN 3 HD
 http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+",TSN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+☆",TSN 4
 http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+",TSN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/tsn.png" group-title="☆SPORT+☆",TSN 5
 http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
 
 
