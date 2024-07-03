@@ -37,9 +37,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://i.pinimg.com/236x/b0/35/cd/b035cd526dc9d8f513e9d385f1243c82.jpg" group-title="🔵TV LOKAL",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://i.pinimg.com/236x/b0/35/cd/b035cd526dc9d8f513e9d385f1243c82.jpg" group-title="🔵TV LOKAL",INDOSIAR B
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
 #EXTINF:-1 group-title="🔵TV LOKAL" tvg-logo="https://i.pinimg.com/236x/13/14/b0/1314b0e4d371de79aab7d7e9deaf8aba.jpg",ANTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,14 +67,6 @@ https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://210.210.155.35/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:-1 group-title="🔵TV LOKAL" tvg-id="moji.id" tvg-logo="https://i.pinimg.com/236x/6a/19/2d/6a192d13f6270e60929c0a39081d9077.jpg",MOJITV B
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
-
-#EXTINF:-1 group-title="🔵TV LOKAL" tvg-logo="https://i.pinimg.com/236x/16/55/09/16550995957695c15e20b5d7daa63737.jpg", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
