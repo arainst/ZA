@@ -1161,30 +1161,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",ARENA ESPORT
 https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",ZS MOTOGP
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12109
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",SKY F1 ENG
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9798
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",SKY MOTOGP IT
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9806
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",WWE ONE
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11943
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",SKY EPL
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9796
-
-#EXTINF:-1 group-title="☆OLAHRAGA☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a7/60/cf/a760cf8a2f65b61fed024b0be52c40fd.jpg",SKY EVENT
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9800
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
