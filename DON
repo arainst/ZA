@@ -551,7 +551,7 @@ https://melon-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=a5b643fdc1b2cb4684bd859f699dce2c:4605d2990f4b1d7c4049cdd83529f3a7
 https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/dd/14/d2dd14e1fe8bc9156574046239902f53.jpg" group-title="💡PENGETAHUAN💡",A KNOWLEDGE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d2/dd/14/d2dd14e1fe8bc9156574046239902f53.jpg" group-title="🔵PENGETAHUAN",A KNOWLEDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
@@ -870,57 +870,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b0/7f/35/b07f351636ad3a69a6968ef61f5c2dfa.jpg" group-title="🔵FILM",MY FAMLY CHANNEL
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg",HBO
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/1
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png", HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/7a/90/a4/7a90a488e5f540d4d381754367e8da1a.jpg",HBO HITS
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/2
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png", HBO FAMILY HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/78/90/6f/78906fa52762b61283843c42bb51c5c0.jpg",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/3
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png", HBO HITS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/d7/14/9a/d7149a213a4d0aeafda51c556df8f360.jpg",HBO FAMILY
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/4
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png", HBO SIGNATURE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/e0/04/64/e00464bc9d565dcb0fdcfa4cf9bc859a.jpg",CINEMAX
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/5
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg",WARNER HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/129
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI ACTION
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/123
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",Bioskop Thriller
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/60
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI ASIA
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/124
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI BOLYYWOOD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/125
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI DRAMA
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/126
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI HOROR
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/61
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/db/7c/48/db7c480eb148408eee819fb90d2beda3.jpg",MOVI INDONESIA
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 group-title="🔵FILM" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png", CINEMAX HD
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/L45fK85.png" group-title="RELAXING" :http-referrer="" :http-user-agent="",RELAXING OCEAN
