@@ -439,31 +439,31 @@ https://cdn08jtedge.indihometv.com/dass/107/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-id="indikids.id" tvg-name="indikids" group-title="🔵KIDSTV " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNPD-iwMrRfCy-cn4QyiqkHjSAqc7NHHeEQ&usqp=CAU", INDIKIDS 
 https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd 
 
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY CHANNEL
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509093
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY JR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY JR
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509094
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY XD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: DISNEY XD
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509095
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: BABY FIRST
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: BABY FIRST
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418035
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: BOOMERANG
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: BOOMERANG
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418036
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: CARTOON NETWORK
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418037
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: ME TV TOONS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: ME TV TOONS
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/648108
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: MOONBUG
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: MOONBUG
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418043
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: NICK JR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: NICK JR
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418031
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: NICKTOONS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: NICKTOONS
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418032
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: PBS KIDS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: PBS KIDS
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418040
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: TEENNICK
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: TEENNICK
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418030
-#EXTINF:-1 tvg-logo"https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: UNIVERSAL KIDS
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",US: UNIVERSAL KIDS
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418038
 
 
