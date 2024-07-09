@@ -1611,49 +1611,48 @@ http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/405774
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/405773
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",MXGP 00 | WMX
 http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644994
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 1
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644995
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 2
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644996
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 3
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644997
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 4
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644998
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 5
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644999
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 6
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645000
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 7
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645001
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 8
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645002
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 9
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645003
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",ZLIVE EVEN 10
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/645004
-
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆"
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 1
 https://cdn.querysports.com/hls/copa_720.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 2
-https://a2uy.short.gy/Toffee-Copa21/Zubayer_Op.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 3
-https://a2uy.short.gy/Toffee-Copa1/Zubayer_Op.m3u8
-#EXTINF:-1 tvg-name="TUDN US" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 4
+
+#EXTINF:-1 tvg-name="Copa1" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-name="Bangke" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=343a23cd3dfcf4550194f0528771366c:ad47ec098d7249e45da238adccba45cf
+https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd
+
+#EXTINF:-1 tvg-name="HRT_2" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL_DE" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#EXTINF:-1 tvg-name="SBT_BR" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+https://vrio.s.llnwi.net/band/dash_live_0035/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
+
+#EXTINF:-1 tvg-name="TDP_ES" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-name="TUDN US" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 8
 https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 5
 https://madplay.live/hls/jiotv/stream.php?id=514&e=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 6
-http://cdn.hotflix-bd.online/hotflixbd/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 7
-https://pl.e32edewdg.shop/playlist/23630/redi1111vs.cloudcdn7.net/caxi.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 8 
-http://himelop-back.ddns.net:8080/hls/col12.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 9
-https://cdn4.hotflix-bd.online:443/Premier-sports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 10
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 
@@ -1720,9 +1719,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 group-title="☆EURO2024☆" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg",LINK 1 INDO B
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-title="☆EURO2024☆" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg",LINK 24 TR
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
 #EXTINF:-1 group-title="☆EURO2024☆" tvg-id="rtbAneka" tvg-url="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg", LINK 3 BRUN
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
@@ -1736,18 +1732,18 @@ https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 5 ENG
 http://124.29.225.205:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 6 ENG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://iptvkita.my.id:25461/direct/hometv/1828
+#EXTINF:-1 tvg-name="EVEN (HD) latin" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 6 ARG
+http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20203
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 7 ENG
 http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
 
-#EXTINF:-1 tvg-name="tipikrus" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 8 RUS A
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="TRT1turk", LINK 8 TR
+#EXTGRP: EURObackup
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
+#KODIPROP:inputstream.adaptive.license_key=15aa559c3c7f942bb639450a4e68c14a:14f46ff5d48aab35e0dbf249241179f1
+https://switch-api.tvplus.com.tr/pl/176.235.2.69:80/izmottrrs.tvplus.com.tr/PLTV/88888888/224/3221229536/3221229536.mpd?rrsip=izmottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-2750&servicetype=1&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=DzACYdLt0OWNXOrDGRpl3J3B5PyrmX4YQOdSNDW0jWRm93dgZuk6pmqqNsOk7xYR5jXlGTb4rB6ajwzNkgh9yWoOE1sF9WOHCctkfqlgUu680aE%2FkXF8BRSDJBMctj2qq1A0RdufXz4My9U2M%2BYWF3xjr72rUuM6oKq81L4VeRuE%2BHpHwwb9AzQr7%2FtpY3bC%3A20230213212703%3AUTC%2C%2C%2C20230213212703%2Curn%3AHuawei%3AliveTV%3A001300000008526522%2C%2C-1%2C0%2C1%2C%2C%2C2%2C497%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100068310%2CEND&GuardEncType=2&from=31&validdev=5271,5272&hms_devid=5271&pbf=2_2_1_1702852732&vqe=3&it=H4sIAAAAAAAAAzXMwQoCIRRA0b9xKU5Pp2bhqgjaSDDVNp76FMFG0mmgv4-J2t9z54qOTgetLA4QrBJyB1JKYbcBCWFA6zxS2LBGT1M0MIc5pyma4ld2G_f3TnDoeK84ALusu2PGqMW3NK-Hpar7PxupLsmR9i3wBRvHGCtFnFOZ-Dnj-1rzL_kAL0FoaZkAAAA&uid=qV-t6_pRG0m6p7fJFdlMUQ&srv=cGwtYW5rLXMwNi50dnBsdXMuY29tLnRy&sw_h1=lj4_Egdznf6j_0dfxdH4Nw&srv2=cGwtYW5rLXMwNC50dnBsdXMuY29tLnRy&sw_h2=sdfKcc5DvC-2dMQHdtRV1Q&proxy=true
 
 #EXTINF:-1 tvg-name="launerus" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 8 RUS B
 #EXTGRP: ☆EURO2024☆
@@ -1884,7 +1880,8 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=74981&extensi
 http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/133090.m3u8
 #EXTINF:-1 tvg-name="sony2" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 23 ENG
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=5175&deviceMac=00:1A:79:E5:A9:30
-
+#EXTINF:-1 tvg-name="skycalcio" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆"LINK 24 IT
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=567976&extension=m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE"
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN Football Plus euro
