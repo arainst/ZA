@@ -1296,9 +1296,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆Sport+☆", SONY 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF: -1 tvg-name="Sony Ten 4 HD" tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆Sport+☆,SONY 4
+#EXTINF: -1 tvg-name="Sony Ten 4 HD" tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆Sport+☆",SONY 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆Sport+☆, SONY 5
+#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆Sport+☆", SONY 5
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0e/96/3c/0e963cdb5e91944561a6ae37eace1f9c.jpg" group-title="☆SPORT+☆",ASTROSPORT 1
@@ -1888,46 +1888,6 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/133090.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=5175&deviceMac=00:1A:79:E5:A9:30
 #EXTINF:-1 tvg-name="skycalcio" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆"LINK 24 IT
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=567976&extension=m3u8
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE"
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN Football Plus euro
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609131
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 1
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609143
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 2
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609137
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 2
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609137
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 3
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609138
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 4
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609139
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 5
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609140
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN OTT 6
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609141
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN Play
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609142
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN PSL
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609144
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN Tennis
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609145
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN 7
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609146
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE", EVEN 8
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/609147
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 9
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603671
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 10
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603672
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 11
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603673
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 12
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603674
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 13
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603675
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="SSEVENLIVE",EVEN 14
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/603724
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN"
