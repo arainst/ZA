@@ -1677,53 +1677,6 @@ http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/644996
 
 
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆"
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 1
-https://cdn.querysports.com/hls/copa_720.m3u8
-
-#EXTINF:-1 tvg-name="Copa1" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 tvg-name="Bangke" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=343a23cd3dfcf4550194f0528771366c:ad47ec098d7249e45da238adccba45cf
-https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd
-
-#EXTINF:-1 tvg-name="HRT_2" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd
-
-#EXTINF:-1 tvg-name="RTL_DE" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-name="SBT_BR" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
-https://vrio.s.llnwi.net/band/dash_live_0035/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
-
-#EXTINF:-1 tvg-name="TDP_ES" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
-https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
-
-#EXTINF:-1 tvg-name="TUDN US" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 8
-https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 5
-https://madplay.live/hls/jiotv/stream.php?id=514&e=.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆",LINK 9
-https://ch1-tva.duin.dev/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="assp4" tvg-logo="https://i.pinimg.com/236x/f9/61/8a/f9618a5157aa0cf59919a4a5aa784a9a.jpg" group-title="☆COPAMERICA2024☆", LINK  10
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352090
-
-
-
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆WCUPQUALIFIKASI☆"
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1771,177 +1724,6 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 #EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers 10
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
-
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆"
-#EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 1 INDO A
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="☆EURO2024☆" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg",LINK 1 INDO B
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 group-title="☆EURO2024☆" tvg-id="rtbAneka" tvg-url="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg", LINK 2 BRUN
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="stF1", LINK 4 ENG
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://roketmotor.nontonx.com/mgpplayer1
-https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 4B ENG
-http://124.29.225.205:8000/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-name="EVEN (HD) latin" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 8 ARG
-http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/20203
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 7B ENG
-http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="TRT1turk", LINK 3 TR
-#EXTGRP: ☆EURO2024☆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15aa559c3c7f942bb639450a4e68c14a:14f46ff5d48aab35e0dbf249241179f1
-https://switch-api.tvplus.com.tr/pl/176.235.2.69:80/izmottrrs.tvplus.com.tr/PLTV/88888888/224/3221229536/3221229536.mpd?rrsip=izmottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-2750&servicetype=1&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=DzACYdLt0OWNXOrDGRpl3J3B5PyrmX4YQOdSNDW0jWRm93dgZuk6pmqqNsOk7xYR5jXlGTb4rB6ajwzNkgh9yWoOE1sF9WOHCctkfqlgUu680aE%2FkXF8BRSDJBMctj2qq1A0RdufXz4My9U2M%2BYWF3xjr72rUuM6oKq81L4VeRuE%2BHpHwwb9AzQr7%2FtpY3bC%3A20230213212703%3AUTC%2C%2C%2C20230213212703%2Curn%3AHuawei%3AliveTV%3A001300000008526522%2C%2C-1%2C0%2C1%2C%2C%2C2%2C497%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100068310%2CEND&GuardEncType=2&from=31&validdev=5271,5272&hms_devid=5271&pbf=2_2_1_1702852732&vqe=3&it=H4sIAAAAAAAAAzXMwQoCIRRA0b9xKU5Pp2bhqgjaSDDVNp76FMFG0mmgv4-J2t9z54qOTgetLA4QrBJyB1JKYbcBCWFA6zxS2LBGT1M0MIc5pyma4ld2G_f3TnDoeK84ALusu2PGqMW3NK-Hpar7PxupLsmR9i3wBRvHGCtFnFOZ-Dnj-1rzL_kAL0FoaZkAAAA&uid=qV-t6_pRG0m6p7fJFdlMUQ&srv=cGwtYW5rLXMwNi50dnBsdXMuY29tLnRy&sw_h1=lj4_Egdznf6j_0dfxdH4Nw&srv2=cGwtYW5rLXMwNC50dnBsdXMuY29tLnRy&sw_h2=sdfKcc5DvC-2dMQHdtRV1Q&proxy=true
-
-#EXTINF:-1 tvg-name="ept1" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 22 A GER
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/607506
-
-#EXTINF:-1 tvg-name="EPT2" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 22 B GER
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/607505
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="protv", LINK 9 RUM A
-#EXTGRP: ☆EURO2024☆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="prox", LINK 9 RUM B
-#EXTGRP: ☆EURO2024☆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 10 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆", LINK 10 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
-https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
-
-#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 11 CN A
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-##EXTINF:-1 tvg-name="cctv5+" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 11 CN B
-#https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="tv3", LINK 12 LIT A
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="tv6", LINK 12 LIT B
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
-https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 13 INDO A
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 13 INDO B
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="4sport", LINK 14 HUNG
-#EXTGRP: ☆EURO2024☆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="etve", LINK 5 EST
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:65231111f4044f8a067ad0de10b59d49
-https://cdnlb.tvplayhome.lt/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_AVC/ETV_HD_HVC.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="is", LINK 6 BEL
-#EXTGRP: ☆EURO2024☆
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
-https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd
-
-#EXTINF:-1   tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 7 PT
-http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="nbe", LINK 20 RUS
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
-https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="Khzak", LINK 21 KHZ
-#EXTGRP: ☆EURO2024☆
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" tvg-name="optus", LINK 19 ENG
-#EXTGRP: ☆EURO2024☆
-http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=74981&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beinfr" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 23 FR
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/133090.m3u8
-#EXTINF:-1 tvg-name="sony2" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 8B ENG
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=5175&deviceMac=00:1A:79:E5:A9:30
-#EXTINF:-1 tvg-name="skycalcio" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆"LINK 24 IT
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=567976&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 17
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/133233.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 18
-http://fortv.cc:8080/live/thalwax@gmail.com/thalwax@2023/57292.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆EURO2024☆",LINK 16
-http://tv.cloudcdn.me:80/live.ts?channelId=125436&uid=5175&deviceMac=00:1A:79:E5:A9:30
 
 
 
@@ -2001,6 +1783,37 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Hhi.m3u8
 https://raw.githubusercontent.com/Cutsiffa/on/main/Hsi.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="☆LIVEEVEN", LIVE 10
 https://raw.githubusercontent.com/Cutsiffa/pl/main/Bs1.m3u8
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://i.pinimg.com/236x/ee/46/d0/ee46d079eeaab4218fc3fb7557c85ade.jpg"
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-portrait.jpg",Ambulance 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a26313e43f2b36e64111bd5f20f82a8b:4c2fe8e829d418bfd7d4ded2bbc4d7a5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034777X0-portrait.jpg",Hwayi: A Monster Boy 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa74c73f811ca857ea053722a6a2ab6e:f8cc64c2d68735ce0633148b522703f3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9ddad940521074dc304c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76eebfcc9eca8d8f88068c9be41eb8f7:aa6833d3240176007736f9b06fc9a7de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034832X0-portrait.jpg",Cry Macho 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc5a76277cb40b59fb8c80520289a2c:fe38a954ca762317ef2d5d43d26a1944
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e47981d940521074c68072_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00d49e11796259918c344050fe007af9:ce78fff8737d0679c79d194e79091105
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
 
