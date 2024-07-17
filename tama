@@ -1847,4 +1847,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e47981d940521074c
 #KODIPROP:inputstream.adaptive.license_key=00d49e11796259918c344050fe007af9:ce78fff8737d0679c79d194e79091105
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆APA INI", MATCH BAJINGAN 1
+http://mkctvnew.my.id/u16.m3u8
+
 
