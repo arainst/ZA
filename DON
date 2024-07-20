@@ -1675,6 +1675,13 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m104nd/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 1B
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721476309~acl=/drm/dash/*~id=69578335~hmac=fdff9c107156f81bc2edf8284143c57aee89faa89a0e312f4bfb0bf7c204c3fc
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 2
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
