@@ -471,6 +471,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",BabyFirst TV US
+http://iptvtree.net:8080/T-thornman/2126e132/8591
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Boomerang US
+http://iptvtree.net:8080/T-thornman/2126e132/2281
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Disney Channel US
+http://iptvtree.net:8080/T-thornman/2126e132/2303
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Disney Junior US
+http://iptvtree.net:8080/T-thornman/2126e132/8608
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Disney XD US
+http://iptvtree.net:8080/T-thornman/2126e132/6395
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Nick Jr US
+http://iptvtree.net:8080/T-thornman/2126e132/14835
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",TG Junior US
+http://iptvtree.net:8080/T-thornman/2126e132/298826
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",nickelodeon US
+http://iptvtree.net:8080/T-thornman/2126e132/764
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV",Universal Kids US
+http://iptvtree.net:8080/T-thornman/2126e132/6399
+
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵HIBURAN"
@@ -1803,35 +1822,35 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 
 
 #EXTINF:-1 group-title="🎬BIOSKOP HBO" group-logo="https://i.pinimg.com/236x/ee/46/d0/ee46d079eeaab4218fc3fb7557c85ade.jpg"
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-portrait.jpg",Ambulance 
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-portrait.jpg",Beast 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a26313e43f2b36e64111bd5f20f82a8b:4c2fe8e829d418bfd7d4ded2bbc4d7a5
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=39148205b8307db4234520b7c85933d8:a7ec4d9cb1bca394a68d249aacc75c94
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034777X0-portrait.jpg",Hwayi: A Monster Boy 
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018420X0-portrait.jpg",Bessie 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa74c73f811ca857ea053722a6a2ab6e:f8cc64c2d68735ce0633148b522703f3
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cb9ddad940521074dc304c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe23cd9e22685887b7477c489c329111:2a0a1fee0d9d96ecaa7ee56a130fd196
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c79fbccbe7189575a8cb0a3_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039381X0-portrait.jpg",Black Adam 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76eebfcc9eca8d8f88068c9be41eb8f7:aa6833d3240176007736f9b06fc9a7de
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6d2d7d6d14bf511fdb5b92825520727f:d525869d111d70d6eaa286ba8b2bb8b9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c0170e_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun 2
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041489X0-portrait.jpg",Blue Beetle 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c147261c177959ed6debaf706b6fa9e:912bfcf5e1d0d684bbe21fb8602df942
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e844b6_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034832X0-portrait.jpg",Cry Macho 
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014767X0-portrait.jpg",Dead Mine 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fc5a76277cb40b59fb8c80520289a2c:fe38a954ca762317ef2d5d43d26a1944
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63e47981d940521074c68072_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5fc300275477502c85eca3e27c5c9114:59c7e5b5a19fc7fc55a6342719e5006f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720ed0be7189575a8bef04_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030447X0-portrait.jpg",Batman V Superman: Dawn Of Justice 
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035647X0-portrait.jpg",Detention 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00d49e11796259918c344050fe007af9:ce78fff8737d0679c79d194e79091105
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6062d9c96d048943f77a0f62_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2a2a470368552cc0f5bea027fc9d4baf:def8d086344e8b17402b11e5e893ddf3
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64904b73d940521074d6a2d5_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
 
