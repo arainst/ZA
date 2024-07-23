@@ -609,7 +609,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNaturescapeHD/mpd/Stingra
 
 
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/53/4a/fe/534afe062ee2880ef7ad6da110f4dce9.jpg" group-title="🔵MUSIK"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/79/55/b8/7955b89ee80401f14aa8d604173495f6.jpg" group-title="🔵MUSIK"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -994,7 +994,7 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 
 
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="RELAXING"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/aa/ea/a8/aaeaa85fd0a8cc063a4ee063ed574a2d.jpg" group-title="RELAXING"
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/L45fK85.png" group-title="RELAXING" :http-referrer="" :http-user-agent="",RELAXING OCEAN
 https://raw.githubusercontent.com/And73Smi/LiveYTB-M3U/main/ch2.m3u8
 #EXTINF:-1  tvg-name="   " tvg-logo="https://i.imgur.com/L45fK85.png" group-title="RELAXING" :http-referrer="" :http-user-agent="",RELAXING NATURE
@@ -1553,7 +1553,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
 
 ================================================== UFC ==========================================================
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/20/b1/d6/20b1d6f49473a95d3269a609e939b2d5.jpg" group-title="UFC FEED"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/3d/b1/b5/3db1b50873540976dd5eed136b3e7b7d.jpg" group-title="UFC FEED"
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
@@ -1602,7 +1602,7 @@ http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/525
 
 ================================================ MOTOGP ===============================================
 
-#EXTINF:-1 group-logo="ce82faf5be495d2fa93531d00f545d28" group-title="MOTOGP FEED"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5e/f0/a3/5ef0a379bdb3516eedb153bb2ebde0e8.jpg" group-title="MOTOGP FEED"
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="TNTSports2.uk" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", A RACE ON 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1646,7 +1646,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 ==================================================== WC QUAL =====================================================
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆WCUPQUALIFIKASI☆"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/67/a2/3e/67a23e5cfc660a39b2a11f61a291fd02.jpg" group-title="☆WCUPQUALIFIKASI☆"
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1744,7 +1744,7 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 
 ========================================================= BIOSKOPHBO =============================================================
 
-#EXTINF:-1 group-title="🎬BIOSKOP HBO" group-logo="https://i.pinimg.com/236x/a8/8c/f9/a88cf9ef0890a90771e5fdbfa1c7b84b.jpg"
+#EXTINF:-1 group-title="🎬BIOSKOP HBO" group-logo="https://i.pinimg.com/236x/46/6e/6c/466e6c8d2f8e16c6f7592950e6cfd8c8.jpg"
 #EXTINF:-1 group-title="🎬BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-portrait.jpg",Beast 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39148205b8307db4234520b7c85933d8:a7ec4d9cb1bca394a68d249aacc75c94
