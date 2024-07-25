@@ -1293,7 +1293,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆"
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.pinimg.com/236x/65/9d/7c/659d7c26d4fab4263ec8d439ac4d8282.jpg", Arena 1 
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.pinimg.com/236x/65/9d/7c/659d7c26d4fab4263ec8d439ac4d8282.jpg", Arena1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1302,7 +1302,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-logo="https://i.pinimg.com/236x/94/3f/96/943f96520f3da0e65179d6c48b3168b4.jpg" group-title="☆SPORT+☆",Arena 2 
+#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-logo="https://i.pinimg.com/236x/94/3f/96/943f96520f3da0e65179d6c48b3168b4.jpg" group-title="☆SPORT+☆",Arena2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1530,16 +1530,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/37/e5/b1/37e5b1344c0386bec2bc7cf198bec8d8.jpg", SKY SPORT 9
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/df/b6/09/dfb609f63987e32face45eb91f8b6ce9.jpg" group-title="☆SPORT+☆",ASTROSPORT 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/df/b6/09/dfb609f63987e32face45eb91f8b6ce9.jpg" group-title="☆SPORT+☆",ASTROSPORT 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/df/b6/09/dfb609f63987e32face45eb91f8b6ce9.jpg" group-title="☆SPORT+☆",ASTROSPORT 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/df/b6/09/dfb609f63987e32face45eb91f8b6ce9.jpg" group-title="☆SPORT+☆",ASTROSPORT 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/df/b6/09/dfb609f63987e32face45eb91f8b6ce9.jpg" group-title="☆SPORT+☆",ASTROSPORT 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/1e/92/3f1e92b59126df08f0fd2ee3d88c07f2.jpg" group-title="☆SPORT+☆", TSN 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e7/7f/5c/e77f5c432dea5afe4b15a0a859081b1f.jpg" group-title="☆SPORT+☆", TSN 2
@@ -1550,6 +1541,149 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn3.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/62/b1/27/62b127fc977af0bfbe193f1a45d2beb6.jpg" group-title="☆SPORT+☆", TSN 5
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="☆SPORT+☆",ASSP 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="☆SPORT+☆",ASSP 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="☆SPORT+☆",ASSP 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="☆SPORT+☆",ASSP 4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:network-caching=1000
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="sportv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Sportv 1 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium78/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="sportv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Sportv 2 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium79/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="sportv.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Sportv 3 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium80/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Football 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Golf 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Grandstand 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport LaLiga 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://vipgoodlive-tvs.starcdn.live/SuperSport_LaLiga_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SuperSport MáXimo 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium572/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Motorsport 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium424/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Premier League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://vipgoodlive-tvs.starcdn.live/SuperSport_Premier_League_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport PSL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Rugby 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Tennis 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium423/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Variety 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Variety 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Variety 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",Supersport Variety 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|Origin=https://claplivehdplay.ru
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins1.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins2.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins3.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins4.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins5.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins6.m3u8
+
+#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN ARAB 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://raw.githubusercontent.com/fgyip/Coba/main/arabianbeins7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp3.m3u8
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 
 ================================================== UFC ==========================================================
 
@@ -1776,44 +1910,151 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720ed0be7189575a8
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64904b73d940521074d6a2d5_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS"
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli3.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli5.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli7.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli9.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 10
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli10.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 11
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli11.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 12
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli12.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 13
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli13.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 14
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli14.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 15
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli15.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 16
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli16.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="EMTEK",SCTV 
+http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
 
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS",1 PARIS 2024 OLYMPICS CEREMONY HD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42984.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS",2 PARIS 2024 OLYMPICS CEREMONY SD
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42983.m3u8
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="EMTEK",SCTV 
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EMTEK",SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
+http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1 HD
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/sctv.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
+http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
+
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
+http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
+http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
+#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
+http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK",Indosiar
+http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK",Indosiar
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",INDOSIAR_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EMTEK",ID|Indosiar
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|flextv
+http://filex.tv:8080/paramjeetsingh/002818/302264
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|@@@
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|xtv_~
+http://xtv.ooo:8080/359052742/470428329/350972
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|xtv
+http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK", INDOSIAR••™
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar~~
+http://iptvtree.net:8080/e891d265/89d742c3/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|hdd
+http://iptvtree.net:8080/F14995/a84c0963/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|3dd
+http://iptvtree.net:8080/AmirBilali/76448035/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|test
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|alfax
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.video.mytv
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.ott
+http://extraott.com/live/7921751389/6097373662/45098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.play
+https://s.id/indosiar_play_shareext-xs
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar(denstv)
+https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.(indihome)
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="EMTEK",MOJI TV
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="EMTEK",Moji HD
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS"
+
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1 LIVE CEREMONY OLYMPIC24 _ENG
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="sctv" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",2 LIVE CEREMONY OLYMPIC24_INDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
+#EXTINF:-1 tvg-id="indosiar" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",3 LIVE CEREMONY OLYMPIC24_INDO
+#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
+http://filex.tv:8080/paramjeetsingh/002818/302264
+
+#EXTINF:-1 tvg-id="la1" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",4 LIVE CEREMONY OLYMPIC24_ESP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 tvg-id="RPC" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",5 LIVE CEREMONY OLYMPIC24_BR
+http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
+
+#EXTINF:-1 tvg-id="UROSPRTIT" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",6 LIVE CEREMONY OLYMPIC24_IT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+
+#EXTINF:-1 tvg-id="rtbbrunai" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",7 LIVE CEREMONY OLYMPIC24_BRU
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli3.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli5.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli7.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli9.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 10
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli10.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 11
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli11.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 12
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli12.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 13
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli13.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 14
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli14.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 15
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli15.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 16
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli16.m3u8
 
 
 
