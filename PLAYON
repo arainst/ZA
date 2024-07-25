@@ -1776,16 +1776,44 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c720ed0be7189575a8
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64904b73d940521074d6a2d5_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 
-#EXTINF:-1 group-logo="https://www.themoviedb.org/t/p/w500/eA8uvsjzlQp6kWr4AMa8WIYY8G7.jpg" group-title="□BIOSKOP AKHIR PEKAN■"
-#EXTINF:-1 tvg-logo"=https://i.pinimg.com/236x/b2/e9/f0/b2e9f02e70adfeca7f715ab9a0624168.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Jagat Arwah
-https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo"=https://i.pinimg.com/236x/b2/e9/f0/b2e9f02e70adfeca7f715ab9a0624168.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Marlina si Pembunuh
-https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo"=https://i.pinimg.com/236x/b2/e9/f0/b2e9f02e70adfeca7f715ab9a0624168.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Menunggu Bunda
-https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo"=https://i.pinimg.com/236x/b2/e9/f0/b2e9f02e70adfeca7f715ab9a0624168.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Miracle in Cell No. 7
-https://www.googleapis.com/drive/v3/files/1Sy8P0KfkZU3XX_ifur0NCMbamCaTKs9t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS"
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli3.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli5.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli7.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli9.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 10
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli10.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 11
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli11.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 12
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli12.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 13
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli13.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 14
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli14.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 15
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli15.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="24OLYMPICS", LINK 16
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli16.m3u8
 
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS",1 PARIS 2024 OLYMPICS CEREMONY HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42984.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="24OLYMPICS",2 PARIS 2024 OLYMPICS CEREMONY SD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42983.m3u8
 
 
 
