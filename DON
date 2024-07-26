@@ -1694,7 +1694,10 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 2
-http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/530
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_480p/hdntl=exp=1722012803~acl=%2f*~id=69578335~data=hdntl~hmac=cbe294fbc92ef36119ad1517a50accef96623f76a987e8e12aca0bd807982475/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 3
 https://raw.githubusercontent.com/Cutsiffa/pl/main/Uf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 4
@@ -1707,8 +1710,6 @@ http://extraott.com:80/live/7921751389/6097373662/34166.m3u8
 http://extraott.com:80/live/7921751389/6097373662/34165.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 03:
 http://extraott.com:80/live/7921751389/6097373662/34164.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",✦ PPV| EUROSPORT XTRA ✦
-http://extraott.com:80/live/7921751389/6097373662/400496062.m3u8
 
 ============================================ FORMULA1 ============================================
 
@@ -1991,38 +1992,62 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS"
 
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1 LIVE CEREMONY OLYMPIC24 _ENG
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1 LIVE ENG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 tvg-id="sctv" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",2 LIVE CEREMONY OLYMPIC24_INDO
+#EXTINF:-1 tvg-id="sctv" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",2 LIVE INDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 
-#EXTINF:-1 tvg-id="indosiar" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",3 LIVE CEREMONY OLYMPIC24_INDO
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://filex.tv:8080/paramjeetsingh/002818/302264
+#EXTINF:-1 tvg-id="BRUN" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",3 LIVE BRU
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="la1" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",4 LIVE CEREMONY OLYMPIC24_ESP
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",4 LIVE TR
+#EXTGRP: ☆EURO2024☆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15aa559c3c7f942bb639450a4e68c14a:14f46ff5d48aab35e0dbf249241179f1
+https://switch-api.tvplus.com.tr/pl/176.235.2.69:80/izmottrrs.tvplus.com.tr/PLTV/88888888/224/3221229536/3221229536.mpd?rrsip=izmottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-2750&servicetype=1&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=DzACYdLt0OWNXOrDGRpl3J3B5PyrmX4YQOdSNDW0jWRm93dgZuk6pmqqNsOk7xYR5jXlGTb4rB6ajwzNkgh9yWoOE1sF9WOHCctkfqlgUu680aE%2FkXF8BRSDJBMctj2qq1A0RdufXz4My9U2M%2BYWF3xjr72rUuM6oKq81L4VeRuE%2BHpHwwb9AzQr7%2FtpY3bC%3A20230213212703%3AUTC%2C%2C%2C20230213212703%2Curn%3AHuawei%3AliveTV%3A001300000008526522%2C%2C-1%2C0%2C1%2C%2C%2C2%2C497%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100068310%2CEND&GuardEncType=2&from=31&validdev=5271,5272&hms_devid=5271&pbf=2_2_1_1702852732&vqe=3&it=H4sIAAAAAAAAAzXMwQoCIRRA0b9xKU5Pp2bhqgjaSDDVNp76FMFG0mmgv4-J2t9z54qOTgetLA4QrBJyB1JKYbcBCWFA6zxS2LBGT1M0MIc5pyma4ld2G_f3TnDoeK84ALusu2PGqMW3NK-Hpar7PxupLsmR9i3wBRvHGCtFnFOZ-Dnj-1rzL_kAL0FoaZkAAAA&uid=qV-t6_pRG0m6p7fJFdlMUQ&srv=cGwtYW5rLXMwNi50dnBsdXMuY29tLnRy&sw_h1=lj4_Egdznf6j_0dfxdH4Nw&srv2=cGwtYW5rLXMwNC50dnBsdXMuY29tLnRy&sw_h2=sdfKcc5DvC-2dMQHdtRV1Q&proxy=true
+
+#EXTINF:-1 tvg-id="la1" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",5 LIVE ESP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
-#EXTINF:-1 tvg-id="RPC" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",5 LIVE CEREMONY OLYMPIC24_BR
+#EXTINF:-1 tvg-id="RPC" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",6 LIVE BR
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
-#EXTINF:-1 tvg-id="UROSPRTIT" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",6 LIVE CEREMONY OLYMPIC24_IT
+#EXTINF:-1 tvg-id="UROSPRTIT" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",7 LIVE IT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
 https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
 
-#EXTINF:-1 tvg-id="rtbbrunai" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",7 LIVE CEREMONY OLYMPIC24_BRU
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",8 LIVE FR
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42983.m3u8
+
+#EXTINF:-1 tvg-id="lit" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",9 LIVE LIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="hung" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",9b LIVE HU
+#EXTGRP: 》🏆24OLYMPICS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
+
+
+
 #EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
 #EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 2
