@@ -2008,7 +2008,6 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",4 LIVE TR
-#EXTGRP: ☆EURO2024☆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15aa559c3c7f942bb639450a4e68c14a:14f46ff5d48aab35e0dbf249241179f1
