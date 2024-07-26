@@ -1998,13 +1998,15 @@ http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS"
 
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1 LIVE ENG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="usa1" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1 LIVE US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
+#EXTINF:-1 tvg-id="usa2" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",1b LIVE US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 #EXTINF:-1 tvg-id="sctv" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",2 LIVE INDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
