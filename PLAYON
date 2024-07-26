@@ -1694,7 +1694,10 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 2
-http://ultrapremium.cloud:8080/33mera76wa76fe34/m37me65wu93m/530
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_480p/hdntl=exp=1722012803~acl=%2f*~id=69578335~data=hdntl~hmac=cbe294fbc92ef36119ad1517a50accef96623f76a987e8e12aca0bd807982475/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 3
 https://raw.githubusercontent.com/Cutsiffa/pl/main/Uf1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 4
