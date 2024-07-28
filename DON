@@ -463,25 +463,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
 https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Disney Junior 
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Disney Junior 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Disju.m3u8
-#EXTINF:-1 tvg-id="disneyxd.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Disney XD
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Disney XD
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Disxd.m3u8
-#EXTINF:-1 tvg-id="familyjr.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Family Jr HD
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Family Jr HD
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Famjr.m3u8
-#EXTINF:-1 tvg-id="teletoon.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Teletoon East 
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Teletoon East 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Telton.m3u8
-#EXTINF:-1 tvg-id="ytv.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",YTV East 
+#EXTINF:-1 tvg-id="ytv.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",YTV East 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Ytv.m3u8
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Discovery Family 
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Discovery Family 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Disfam.m3u8
-#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Treehouse 
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Treehouse 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Treehouse.m3u8
-#EXTINF:-1 tvg-id="boomerang.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Boomerang (H)
+#EXTINF:-1 tvg-id="boomerang.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Boomerang (H)
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Boome.m3u8
-#EXTINF:-1 tvg-id="universalkids.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",Universal Kids 
+#EXTINF:-1 tvg-id="universalkids.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",Universal Kids 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Univkid.m3u8
-#EXTINF:-1 tvg-id="teennick.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDS",TeenNick
+#EXTINF:-1 tvg-id="teennick.us" tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="🔵KIDSTV",TeenNick
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
 
 
