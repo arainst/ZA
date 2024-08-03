@@ -337,7 +337,7 @@ https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/FirstWarriorsHD/mpd/FirstWarriorsHD.mpd
 
 =========================================== KNOWLEDGE ===========================================
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/38/be/b2/38beb223ac7a352864f4b7d4ba8c4da4.jpg group-title="》NAT_&_KNOW"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/38/be/b2/38beb223ac7a352864f4b7d4ba8c4da4.jpg" group-title="》NAT_&_KNOW"
 
 #EXTINF:-1 tvg-id="Xplore.us" tvg-name="XPLORE" tvg-logo="https://i.pinimg.com/236x/c9/be/cf/c9becf29b7055fcf3d4a55fc9da45124.jpg" group-title="》NAT_&_KNOW", XPLORE HD
 https://xplore-roku.amagi.tv/playlist.m3u8
@@ -443,7 +443,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/StingrayNaturescapeHD/mpd/StingrayNaturescapeHD.mpd
 
 ==================================================== LIFESTYLE ============================================
-#EXTINF:-1 group-logo=https://i.pinimg.com/236x/fb/d6/1e/fbd61eb1e2a3a4a386794ced7b323b53.jpg" group-title="》FAS_&_LIFE"
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/fb/d6/1e/fbd61eb1e2a3a4a386794ced7b323b53.jpg" group-title="》FAS_&_LIFE"
 
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.pinimg.com/236x/54/4f/58/544f58719296767371e5afeb4ae88dc5.jpg" group-title="》FAS_&_LIFE",FASHION FIND (HD)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
@@ -1868,6 +1868,8 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/P1.m3u8
 https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 
 ========================================================= BIOSKOPHBO =============================================================
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/ee/46/d0/ee46d079eeaab4218fc3fb7557c85ade.jpg" group-title="BIOSKOP HBO"
+
 #EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035720X0-portrait.jpg",Kaiji: Final Game 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e766311b1355849315b46da9533c343:d7202584e1c1339ae332b8247da9f574
