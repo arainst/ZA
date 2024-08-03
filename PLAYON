@@ -1672,32 +1672,34 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 
 ================================================== UFC ==========================================================
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED"
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/3d/b1/b5/3db1b50873540976dd5eed136b3e7b7d.jpg" group-title="UFC FEED"
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", COMBATE
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/Combate.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED",X EVEN ONLY
+http://extraott.com:80/live/7921751389/6097373662/34167.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED",X EVEN ONLY 2
+http://extraott.com:80/live/7921751389/6097373662/34166.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED",X EVEN ONLY
+http://extraott.com:80/live/7921751389/6097373662/34165.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED",X EVEN ONLY
+http://extraott.com:80/live/7921751389/6097373662/34164.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", ZTESTMOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_16890_480p/hdntl=exp=1722012803~acl=%2f*~id=69578335~data=hdntl~hmac=cbe294fbc92ef36119ad1517a50accef96623f76a987e8e12aca0bd807982475/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 3
-https://raw.githubusercontent.com/Cutsiffa/pl/main/Uf1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC FEED", LIVE UFC 4
-https://raw.githubusercontent.com/Cutsiffa/pl/main/Uf2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 00 :
-http://extraott.com:80/live/7921751389/6097373662/34167.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 01:
-http://extraott.com:80/live/7921751389/6097373662/34166.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 02:
-http://extraott.com:80/live/7921751389/6097373662/34165.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",FI-UFC| UFC PPV 03:
-http://extraott.com:80/live/7921751389/6097373662/34164.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ce/82/fa/ce82faf5be495d2fa93531d00f545d28.jpg" group-title="UFC FEED",✦ PPV| EUROSPORT XTRA ✦
-http://extraott.com:80/live/7921751389/6097373662/400496062.m3u8
 
 ============================================ FORMULA1 ============================================
 
