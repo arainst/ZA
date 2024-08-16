@@ -2029,94 +2029,70 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="EMTEK",Moji HD
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
+=============================================== EPL =================================================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆"
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep6.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep7.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆", LINK 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep8.m3u8
+
+===================================================== LIGA JERMAN =========================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Bundesli.jpg" group-title="☆LIGA JERMAN☆", LINK 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
+
+========================================================== LIGA ITALIA ====================================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆",
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/SeriA.jpg" group-title="☆LIGA ITALIA☆", LINK 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lit/Seri8.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS"
 
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LIVE 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli1.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LIVE 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli2.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LIVE 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli3.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LIVE 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LIVE 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli5.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli6.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli7.m3u8
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS", LINK 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
 
-#EXTINF:-1 tvg-id="la1" tvg-name="" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",LIVE ESP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
-
-#EXTINF:-1 tvg-id="24ol.us" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",LIVE FR
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/42983.m3u8
-
-#EXTINF:-1 tvg-id="lit" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",LIVE LIT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="hung" tvg-name="US" tvg-logo="https://i.pinimg.com/236x/05/72/2f/05722f7032f40e5a5ecc18e5a3de2d85.jpg" group-title="》🏆24OLYMPICS",LIVE HU
-#EXTGRP: 》🏆24OLYMPICS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",1 LINK A
-https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/chunklist_b796000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",2 LINK B
-https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/chunklist_b796000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",3 LINK C
-https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/chunklist_b796000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",4 LINK D
-https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/chunklist_b796000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",5 LINK E
-https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/chunklist_b796000_slENG.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",6 LINK F
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",7 LINK G
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",8 LINK H
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",9 LINK I
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerSuperSportLaLiga/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",A LINK 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",B LINK 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/usanetwork/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",C LINK 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayerSuperSportLaLiga/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/46/a7/5f/46a75f764423c0c2372f6d2c451e2fe8.jpg" group-title="》🏆24OLYMPICS",D LINK 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
 
