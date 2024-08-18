@@ -1798,236 +1798,81 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 ========================================================= BIOSKOPHBO =============================================================
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/ee/46/d0/ee46d079eeaab4218fc3fb7557c85ade.jpg" group-title="BIOSKOP HBO"
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035720X0-portrait.jpg",Kaiji: Final Game 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019998X0-portrait.jpg",Hard Times: Lost On Long Island 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e766311b1355849315b46da9533c343:d7202584e1c1339ae332b8247da9f574
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648288d7d940521074d555d1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=acc7f3e26bf05b45ac03b15d92decd8b:bcc6a892d98486efbf91f219e7874d66
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c7e2b27be7189575a8d165f_hbovodhd/dash0/IDN_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034763X0-portrait.jpg",Ghost Child 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039379X0-portrait.jpg",Memory 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1ffc340ccfcfd3c5d2ffb0ecfb2455b:e268405f97e0b3c7bdee25770e64d911
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa155cd940521074d9093a_hbovodhd/dash0/IDN_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb17bec7244f2a03e5644780af88486f:7695f84bc5054965a5947cd44c480f4a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017557X0-portrait.jpg",Gravity 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041350X0-portrait.jpg",My Animal 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac17f9b0c37563a9040d54ce88dd8aa:656564cdf96959c9755d593544b81242
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fe3f3d56d048943f76e5c90_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=10a6005e81cd4c90d62c5b1b0b8e6ccc:55c36e6afff65b8d7afdba6c62209739
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545604dd940521074e79f43_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040410X0-portrait.jpg",Halloween Ends 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038102X0-portrait.jpg",Nadia 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6792e70a0cd1f8a41631484e5081c709:7874451657314d0d6213dadd4532d58d
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5bfed940521074d9103c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6e5b11ee98d534db56c99a9e0b526138:10b04895a7a6248e405212501fc9acb0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342dd86d940521074b74c1c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034717X0-portrait.jpg",Harry Potter 20Th Anniversary: Return To Hogwarts 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/035727X0-portrait.jpg",Sadako 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=057724613f4a44c2b90be8213036b00d:441a7d0715cb47a5aa93be4d2203faf8
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed940521074994732_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7b17e0aabe54b383ef0f37acdd388ad2:6d1ebe8a244554dd246fe026cfe8d253
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648fe780d940521074d6992f_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020549X0-portrait.jpg",Lego Scooby-Doo!: Haunted Hollywood 
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020531X0-portrait.jpg",Sully 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7fff3fa56ce570aae9079ec352276ae:cfe61e9905bbe3bffdcf471cc6b24a3d
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc463f86d048943f76b7579_hbovodhd/dash0/IDN_DOLBY_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3d98e6c01af8c7466868cb9495af447d:c3475482a0810a37889477939c476d41
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6512263ed940521074e2ce31_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040335X0-portrait.jpg",Bad Seed Returns
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=009fd19251959806a39dc906f92c714c:6ec1d57ca846fea6ac0b37b769e7384f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb27f7d940521074e0a692_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039104X0-portrait.jpg",The Black Phone 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934c68e59d23c535b9956c95dc256f57:3508c3759738d46d640f2c58f3bfa528
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/643210d7d940521074cdcb49_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023411X0-portrait.jpg",Curse Of La Llorona
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=181b57d1382c579ea16db452e3e4c089:ad8983c16c29e925a1381804c7e8db17
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3a7dc4cbea8a6a4effc738_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032262X0-portrait.jpg",Kill Chain: Cyber War On America'S Elections 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca05044501f651d89c0e321847fb8f33:c7762800cce8ebcf433cfa84e107e90f
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/612098482bd0bb5cd89f47f7_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039197X0-portrait.jpg",The Lair 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee66635a6ab60195e78c5b2cbac7c986:df89256f8a2bd78c792ee108b05221b8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3be2d940521074c40b5d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019475X0-portrait.jpg", Visit 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d4cf3e71a0584117f42bee13ea6fd51:f0bbce4b594a0ac3e43713bc1f49c8c2
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fafa79d940521074e0a1ba_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038089X0-portrait.jpg",Dc Showcase: Constantine - The House Of Mystery 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35f4bfa08e09f05763fe80d1339ee5d8:e0db36a9750f1906ad5b2e395bd764ca
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342dc2cd940521074b74bf8_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/021547X0-portrait.jpg",Darkest Hour 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4803ab356375853a97c7b38f80285ea:6529da4dda58d4aa540ec8a8f6472373
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7fcf2c3ae366782ad9aa3e_hbovodhd/dash0/IDN_index.mpd
 
 #EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023464X0-portrait.jpg",Icebox 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a324243e05558478421720ea91bcde9:57948479d912569ea301d1d30cdb04fc
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3c2a4bcbea8a6a4effefe2_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018890X0-portrait.jpg",Interstellar 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acc84531c13d2bb33fa293f3ba767109:140c67b748435400076ced382c9673ef
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fab0d940521074e794f9_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018495X0-portrait.jpg",Into The Storm 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f309f4647761a8f6825d594a3bf97f27:02b764ff346661751603d653231194ed
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62942f67d940521074a6e1b1_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032468X0-portrait.jpg",Pat The Dog: Into The Wild 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c148d8962462584fa09e4adf769cc6db:a50c838066031c5bf2e973c0026cd395
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/611a496c2bd0bb5cd89eab5f_hbovodhd/dash0/IDN_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039449X0-portrait.jpg",Jurassic World Dominion 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b01efc541837ac20225d45c01017478:f17c0d9dce14189f14ebc30d422bc1f8
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64096451d940521074c9ff92_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040423X0-portrait.jpg",Khun Pan 3 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-portrait.jpg",Moonfall 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53a4912f830b3c1611164d30c7b1a22d:12be4137133533126dce4e2e4a97d539
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-portrait.jpg",Transformers: Rise Of The Beasts 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040640X0-portrait.jpg",Scream Vi 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-portrait.jpg",Shazam! Fury Of The Gods 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=170bb91139d6de563658bb4902db9492:fdbd71bb5164009ba1f924bb91bbc521
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041297X0-portrait.jpg",Shooting Stars 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2663d15a769c96f070507c7da4398fcb:24c93d535c4668ebd84bc6a7a8ed7fde
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/651f9005d940521074e40eb9_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040266X0-portrait.jpg",Smile 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4332b8a852d2836bbd2f45d463d7cbdc:9335097fb32d8801b9ddbdf276c9bb2e
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b886d940521074d55a94_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038087X0-portrait.jpg",The Lord Of The Rings: The Fellowship Of The Ring 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efff8affd30a942825a51d7a2e62c0db:c8fed1ea7320b8160386d9a0f8948d94
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d5ffd940521074b74b4d_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038088X0-portrait.jpg",The Lord Of The Rings 2 The Two Towers 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11bbdd6fbc637f2a35469e348ef7178d:ff9afd5181e4441ee624988567479372
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342d792d940521074b74b76_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038580X0-portrait.jpg",The Lord Of The Rings 3 The Return Of The King 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53e5693190ddcb5200025459868ac054:89bd9064bde0396419b720b7323af0bf
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342eeadd940521074b74dcc_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/022869X0-portrait.jpg",The Nun 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1289712284c75c64be7f6e9bd814f81c:3b2b6af45037e5f67b7ab3f483b604bc
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8f208fcbea8a6a4eef7b27_hbovodhd/dash0/IDN_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af7b6b433d0063a06f61c525b1e69a92:7f827a202d6b476d2dc451836381cf0b
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-#EXTINF:-1 group-title="BIOSKOP HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/IDN_DOLBY_index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Poster_Waktu_Maghrib.jpg/220px-Poster_Waktu_Maghrib.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Waktu Maghrib
-https://www.googleapis.com/drive/v3/files/1CAuarha_MQHYBHmD328KBx8csBgCxqqE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U5MDc3OTktMWM5MC00ODQ3LTk2OWItMDVhYjU0ZWJiZDAzXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Khanzab
-https://www.googleapis.com/drive/v3/files/1wSU_K1LqzXRYh7pJBOb3KRbDehdb9K5c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFjYTc3MTQtODdmZS00ODdlLWIzMmUtOWM5YTZjOTA4ODZkXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" group-title="□BIOSKOP AKHIR PEKAN■",Hidayah
-https://www.googleapis.com/drive/v3/files/1M4sgBpqowB9y0LOS4FJC_w7l714UV5H2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOvqfG9.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", H. P. LOVECRAFT’S THE OLD ONES (2024)
-https://stream.hownetwork.xyz/xxx/h-p-lovecrafts-the-old-ones-2024-webdl_X_47a1405c/21/480.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uvx72ac.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Imaginary (2024) new
-https://stream.hownetwork.xyz/xxx/imaginary-2024-webdl_X_8ac0dbdb/1000/480.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1Si8Dm.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Pee Mak
-https://stream.hownetwork.xyz/xxx/pee-mak-2013-bluray/11/480.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vG9KhUU.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Nang Nak new
-https://stream.hownetwork.xyz/xxx/nang-nak-1999-dvdrip/17/480.m3u8
-https://be4242.rcr52.ams03.cdn112.com/hls2/02/02749/uzpynk0urhq4_n/index-v1-a1.m3u8?t=deHQ4FmCejXQPetNtHmqXcb82gMQa0quJncV2PQgllc&s=1721838087&e=10800&f=13749119&srv=27&asn=7713&sp=4000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvvu42w.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Jagat Alam Gaib Sinden Gaib new
-https://www.dropbox.com/scl/fi/d4of237kqul4fzdaqmha8/Jagat_Alam_Gaib_Sinden_Gaib_2024_Sub_Indo.mp4?rlkey=ylrmvgntbivc30jkgsaqlmacu&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYm1LcU.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Kuyang (2024) new
-https://www.dropbox.com/scl/fi/0w1dk98nyin53jp8ll9ja/Kuyang_2024_Sub_Indo.mp4?rlkey=l9jp00s6984473mfi37jjod2g&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owKUtB1.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Tanduk Setan new
-https://www.dropbox.com/scl/fi/nbilgpi5htr1slhrsf7t2/Tanduk-setan.mp4?rlkey=apu73xqebgzu3bjwdyz2my7vw&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a24RHIp.jpeg" group-title="□BIOSKOP AKHIR PEKAN■", Kereta Berdarah new
-https://www.dropbox.com/scl/fi/lt42pj5904ydr36v61432/Kereta_Berdarah_2024.mp4?rlkey=nozw7p6jq3geprlkcskqks0ba&dl=1
-
-
-
-================================================= EMTEK =====================================================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="EMTEK",SCTV 
-http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
-
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="EMTEK",SCTV 
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EMTEK",SCTV_Gen
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1 HD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/sctv.m3u8
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
-http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
-
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
-http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
-http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
-#EXTINF:-1 tvg-id="" group-title="EMTEK" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
-http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK",Indosiar
-http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK",Indosiar
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",INDOSIAR_Gen
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EMTEK",ID|Indosiar
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|flextv
-http://filex.tv:8080/paramjeetsingh/002818/302264
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|@@@
-http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|xtv_~
-http://xtv.ooo:8080/359052742/470428329/350972
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|xtv
-http://xtv.ooo:8080/MansoorWapda/258741/350972
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK", INDOSIAR••™
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar~~
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|hdd
-http://iptvtree.net:8080/F14995/a84c0963/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|3dd
-http://iptvtree.net:8080/AmirBilali/76448035/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|test
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar|alfax
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.video.mytv
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.ott
-http://extraott.com/live/7921751389/6097373662/45098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.play
-https://s.id/indosiar_play_shareext-xs
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar(denstv)
-https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EMTEK",Indosiar.(indihome)
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="EMTEK",MOJI TV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="EMTEK",Moji HD
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 =============================================== EPL =================================================
 
