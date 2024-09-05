@@ -1865,8 +1865,10 @@ https://canale.mizhls.ru/lb/premium1/playlist.m3u8
 https://canale.mizhls.ru/lb/premium2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 EVEN IND V ARB_B
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/7
+https://spmid.pw:443/play/2-hJzZMBm4Jft0KXmIlQuTYDkpmyeWhjiYbrDeTcd-MJORTIo5trphEJCKoRgU34
+
+##EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
+#https://play-gachor.xyz:443/htv@lite/kjTECpmDmq/7
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 EVEN IND V ARB_D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
