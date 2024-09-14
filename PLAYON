@@ -2451,7 +2451,14 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lipra/Lig6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mYsTYgO.jpeg" group-title="MOVIE SATURDAY", VENOM
 https://www.googleapis.com/drive/v3/files/1xbOgRcfm2MwQOWfZWa5BiQWXrGnqf4ky?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/9R27erz.jpeg" group-title="MOVIE SATURDAY", CODE 8 PART II
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv.lk21official.online/
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/06/film-furiosa-a-mad-max-saga-2024-lk21-d21.jpg",Furiosa: A Mad Max Saga 2024
+https://stream.hownetwork.xyz/yyy/furiosa-a-mad-max-saga-2024-webdl_X_610b86ef/22/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-referrer=https://tv.lk21official.online/
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/02/film-code-8-part-ii-2024-lk21-d21.jpg.webp",Code 8 Part 2 2024
 https://stream.hownetwork.xyz/xxx/code-8-part-ii-2024-webdl_X_c7faf980/1000/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="MOVIE SATURDAY", Deadpool & Wolverine
