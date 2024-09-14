@@ -1706,6 +1706,11 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTINF:-1 group-title="🔵UFC_FEED" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg",1 LINK B
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", LINK 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="🔵UFC_FEED", COMBATE
@@ -1723,34 +1728,27 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF5.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/67/f1/d4/67f1d4950caf80da797e298da5b3ec6b.jpg" tvg-name="skycalcio" group-title="FORMULA1"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1", LINK 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1",1 LINK A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1", LINK 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1",1 LINK B
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 3https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin2.m3u8
-
-#EXTINF:-1 tvg-name="FORMULA_1" tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" group-title="FORMULA1", LINK 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="FOX SPORTS 1 AR" group-title="FORMULA1",LINK 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="skycalcio" group-title="FORMULA1", LINK 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin4.m3u8
 
 ================================================ MOTOGP ===============================================
 
@@ -2433,35 +2431,21 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lipra/Lig6.m3u8
 
 
 
-#EXTINF:-1 group-title="☆INDO EVEN" tvg-id="" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg",2 LINK B
+##EXTINF:-1 group-title="☆INDO EVEN" tvg-id="" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg",2 LINK B
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+#http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",3 LINK C
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",3 LINK C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/endosiar.m3u8
+#https://thedream.biz.id/live/endosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",4 LINK D
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",4 LINK D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-https://thedream.biz.id/live/esceteve.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTINF:-1 group-title="🔵UFC_FEED" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg",1 LINK B
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mYsTYgO.jpeg" group-title="MOVIE SATURDAY", VENOM
-https://www.googleapis.com/drive/v3/files/1xbOgRcfm2MwQOWfZWa5BiQWXrGnqf4ky?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/9R27erz.jpeg" group-title="MOVIE SATURDAY", CODE 8 PART II
-https://stream.hownetwork.xyz/xxx/code-8-part-ii-2024-webdl_X_c7faf980/1000/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="MOVIE SATURDAY", Deadpool & Wolverine
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/16/Deadpool.Wolverine.2024.mp4/tracks-v1a1/mono.m3u8
+#https://thedream.biz.id/live/esceteve.m3u8
 
 
 
