@@ -1879,6 +1879,36 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+http://mpwtv.my.id/u16.m3u8
+
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://av-ch-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="☆WCUPQUALIFIKASI☆" tvg-id="" tvg-logo="https://i.pinimg.com/236x/77/10/d4/7710d4c7e74eff3de351f2bcf25a5ee1.jpg", WCUP Qualifiers INDO
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 ========================================================= INDOEVEN ===================================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="☆INDO EVEN"
