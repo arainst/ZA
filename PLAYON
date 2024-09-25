@@ -1973,17 +1973,16 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/P1.m3u8
 https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/bet6543378/playlist.m3u8
+https://raw.githubusercontent.com/cupcupthai/thai/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w845722833_b800000_sleng.m3u8
 
 #EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",EVEN 9
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+#EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",EVEN 10
+http://xtv.ooo:8080/321166661/52816191/350972
 
 =================================================== LIVE EVEN =========================================÷===========
 
@@ -2498,23 +2497,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lipra/Lig5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Francelig.jpg" group-title="☆LIGA PRANCIS☆", LINK 6
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lipra/Lig6.m3u8
 
-
-
-##EXTINF:-1 group-title="☆INDO EVEN" tvg-id="" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg",2 LINK B
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",3 LINK C
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-#https://thedream.biz.id/live/endosiar.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="☆INDO EVEN",4 LINK D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
-#https://thedream.biz.id/live/esceteve.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", THE BEEK 24
