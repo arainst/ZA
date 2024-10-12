@@ -114,8 +114,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
  
 #EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg", TVONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://stb.mbahnunungonline.net/live/m3u8/id/0976f879a0c4548.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 group-title="》NASIONAL" tvg-logo="https://i.pinimg.com/236x/ff/58/e2/ff58e2b165690f6c99ab75945ac76539.jpg", KOMPASTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
