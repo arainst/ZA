@@ -1871,15 +1871,15 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/e2/be/a9/e2bea9894420bd5e599d4ba10d6cfdfd.jpg" group-title="☆INDO EVEN"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A CHINA V INDO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A INDO V KUWAIT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A CHINA V INDONESIA B
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A EVEN B
 http://mpwtv.my.id/u16.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A CHINA V INDONESIA C
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",1 LINK A EVEN C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
@@ -1890,7 +1890,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 1 INDO V BAHRAIN
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 1 live only
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 2
