@@ -2753,6 +2753,45 @@ https://stream.hownetwork.xyz/xxx/war-blade-2024-webdl_X_2578ba2e/26/480.m3u8
 https://ss09.tubzde.cc/data/F/672599accccd0/hls720/672599accccd0720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/03/War.Blade.2024.mp4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORTS" , DIGI SPORT 1 champion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium400/playlist.m3u8
+
+#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 2 champion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium401/playlist.m3u8
+
+#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="SPORTS" , DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium402/playlist.m3u8
+
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="SPORTS" , DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.webhd.ru/lb/premium403/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-1-ro.png", PRIMA SPORTS 1 champion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium583/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-2-ro.png", PRIMA SPORTS 2 champion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium584/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-3-ro.png", PRIMA SPORTS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium585/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/prima-sport-4-ro.png", PRIMA SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium586/playlist.m3u8
 
 
 
