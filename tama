@@ -1286,21 +1286,21 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports2.uk" tvg-logo="https://i.pinimg.com/236x/95/bc/f0/95bcf09838fa63aef92d27342ebc648f.jpg",TNT SPORT 2 
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports2.uk" tvg-logo="https://i.pinimg.com/236x/95/bc/f0/95bcf09838fa63aef92d27342ebc648f.jpg",TNT SPORT 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports3.uk" tvg-logo="https://i.pinimg.com/236x/70/e7/76/70e776c4e32fe852dbbe347792f2ccea.jpg",TNT SPORT 3 
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports3.uk" tvg-logo="https://i.pinimg.com/236x/70/e7/76/70e776c4e32fe852dbbe347792f2ccea.jpg",TNT SPORT 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports4.uk" tvg-logo="https://i.pinimg.com/236x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORT 4 
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-id="TNTSports4.uk" tvg-logo="https://i.pinimg.com/236x/55/6c/67/556c6711116f1395cabfc62edf61c55b.jpg",TNT SPORT 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1487,29 +1487,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn6.m3u8
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT 1 IND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6299&type=drm
-https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
-
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT 2 IND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6317&type=drm
-https://sritv.serv00.net/red/play.mpd?id=6317&type=dash
-
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT 1 MY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191881.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT 2 MY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/29639.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN SPORT 3 MY
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/29637.m3u8
-
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
@@ -1552,24 +1529,41 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 1
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 2
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-055/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 3
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-056/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 4
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-057/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 5
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-058/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8b/74/ce/8b74ce8802bd87ddf5f4446455ae41a6.jpg" group-title="☆SPORT+☆", DAZN 6
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-059/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ
+
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1578,28 +1572,28 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/o
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
 https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport 2
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport 3 
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
 https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport+
+##EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/4c/87/8d/4c878df3a9d0492a3a6787f2f5104b2f.jpg", V Sport+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
 https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 1
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
@@ -1610,19 +1604,19 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/af/01/8b/af018b3356c62478beb724d4cb6c4abc.jpg" group-title="☆SPORT+☆",SPORTPLUS 5
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/69/70/c0/6970c0b1ece94f60ecbb410011c29a11.jpg" group-title="☆SPORT+☆", LIGA_BELGIA1
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/69/70/c0/6970c0b1ece94f60ecbb410011c29a11.jpg" group-title="☆SPORT+☆", LIGA_BELGIA1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/69/70/c0/6970c0b1ece94f60ecbb410011c29a11.jpg" group-title="☆SPORT+☆", LIGA_BELGIA2
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/69/70/c0/6970c0b1ece94f60ecbb410011c29a11.jpg" group-title="☆SPORT+☆", LIGA_BELGIA2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/6e/0e/4b6e0e70a45f9edc3e36568020fcaa53.jpg" group-title="☆SPORT+☆",LIGA_BRAZIL
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/6e/0e/4b6e0e70a45f9edc3e36568020fcaa53.jpg" group-title="☆SPORT+☆",LIGA_BRAZIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1693,7 +1687,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/UF/UF5.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/67/f1/d4/67f1d4950caf80da797e298da5b3ec6b.jpg" tvg-name="skycalcio" group-title="FORMULA1"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1",1 LINK A
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/6b/4c/ad6b4c42ecba7531573d5c3e5a3d3a3c.jpg" tvg-name="dazn" group-title="FORMULA1",1 LINK A
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
@@ -1727,34 +1721,20 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/F1/Lin4.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5e/f0/a3/5ef0a379bdb3516eedb153bb2ebde0e8.jpg" group-title="MOTOGP FEED"
 
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="TNTSports2.uk" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg",1 Link A (MOTO2_MOTOGP_ONLY)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="TNTSports2.uk" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg",1 Link B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg",1 Link C
+#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg",1 Link A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"}
 https://fe.tring.al/delta/102/out/u/sporttreottencryption.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",1 Link D
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",1 Link B
 #EXTGRP: MOTOGP FEED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://roketmotor.nontonx.com/mgpplayer1
-https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg=.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb/premium586/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",1 Link E
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg" group-title="MOTOGP FEED",1 Link C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
@@ -1901,7 +1881,7 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/L1.m3u8
 https://raw.githubusercontent.com/Cutsiffa/on/main/L2.m3u8
 #EXTINF:-1 group-title="☆INDO EVEN" tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg",EVEN 5
 https://raw.githubusercontent.com/Cutsiffa/on/main/P1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 6
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 6 VOLY
 https://raw.githubusercontent.com/Cutsiffa/on/main/P2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆INDO EVEN",EVEN 7
@@ -2102,9 +2082,10 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK B
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆",1 LINK C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2112,43 +2093,45 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆",1 LINK D
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK E
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-055/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK F
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK G
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.webhd.ru/lb/premium123/playlist.m3u8
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK H
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK G
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium124/playlist.m3u8
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK I
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK J
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK I
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK K
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK J
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium59/playlist.m3u8
+https://canale.mizhls.ru/lb/premium414/playlist.m3u8
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK L
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -2566,22 +2549,210 @@ https://topembed.mizhls.ru/lb/premium467/playlist.m3u8
 
 ======================================= BIOSKOP ==============================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", BETLE J 24
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Beetlejuice.Beetlejuice.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", ALIEN ROMUL 24
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/15/Alien.Romulus.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", SURVI 24
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/20/Survive.Survivre.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", THE WITCH PT2
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/07/10/task1/1a35c0180b98eb437995c1b36bb46e5a/360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="MOVIE SATURDAY", Terrif 3 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/20/Terrifier.3.2024.mp4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZZsw1veCmI5Vakc886guR7RT49wf5hPFljr1Q0_k4yCzlzQqVYDrAEVZV_lG0bOZ8CsubnsKfbeZor721nVLVLpbJ-ynCoAwCSCHuuBDpdUvn2zwvs3WoCrX1frZa2MErADT7vGJ_bn84OLBwZCLfte4rcFpdJBHNqkVE1Cj-a5wxKTG-SztPcNfrsI/s816/lOGO%20nflx%20iptv%2024_waifu2x_photo_noise2_scale.png",MOVIE SATURDAY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cGPq05V.jpeg" group-title="MOVIE SATURDAY", MUNKAR (2024) 
-https://data04.streamku.xyz/mv/ban/7-Munkar.2024.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uKCDuS5.jpeg" group-title="MOVIE SATURDAY", SIKSA KUBUR
-https://data01.mv21.cc/mv/ban/8-Siksa_Kubur_2024.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MIEFM46.jpeg" group-title="MOVIE SATURDAY", TRINIL (2024) 
-https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg",Elyas (2024)
+https://ss06.tubzde.cc/data/E/672b14a519a07/hls720/672b14a519a07720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tb0Fmv75KMXUxSPrtGdXdzlGyGC.jpg",My Super Heroine (2024)
+https://ss07.tubzde.cc/data/2/672b08f57fb7c/hls720/672b08f57fb7c720.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pPpl19v6zdHnXPwAyY0gzS5Mr5I.jpg",The Enigma Of Arrival (2024)
+https://ss04.silkanu.cc/data/A/672b057801e34/hls720/672b057801e34720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6wiVGfGpGZc6E3A0lgIJgeQTx7F.jpg",Secrets Between Sisters (2024)
+https://ss04.silkanu.cc/data/2/672b034ebec21/hls720/672b034ebec21720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lqyXcutZbbTsBrETstMl7XLMgOF.jpg",Pilot (2024)
+https://ss08.tubzde.cc/data/6/672aee207f620/hls720/672aee207f620720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xXjLx3ZstCVOzNgOHBStVvJLivP.jpg",Sven (2024)
+https://ss10.silkanu.cc/data/F/672b1df24ad66/hls720/672b1df24ad66720.m3u8|referer=https://ss10.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dIZ3SzuT3YuAWX1fjdxDevbwQBX.jpg",Music by John Williams (2024)
+https://ss07.tubzde.cc/data/B/672abdffe23db/hls480/672abdffe23db480.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r7iCXrXmq4hKpB4QfDzZd8vsJ7l.jpg",The Count of Monte-Cristo (2024)
+https://ss03.silkanu.cc/data/7/672ab296410bf/hls480/672ab296410bf480.m3u8|referer=https://ss03.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",A Different Man (2024)
+https://ss12.silkanu.cc/data/6/6729cd5951f5a/hls720/6729cd5951f5a720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/j6bpNu94Nah75ED2WQVxt2iOX.jpg",A Mistake (2024)
+https://ss08.tubzde.cc/data/F/6729b78cb3e06/hls720/6729b78cb3e06720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nyZ0IvkSjoU7ShhLh1wjfVz0QXN.jpg",In the Summers (2024)
+https://ss08.tubzde.cc/data/E/672aa2ebb39d0/hls480/672aa2ebb39d0480.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y1oqFJPAYu7qLMz9Rv1FBoDboff.jpg",Afraid (2024)
+https://ss10.silkanu.cc/data/E/672a994952277/hls480/672a994952277480.m3u8|referer=https://ss10.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/afraid-2024-webdl_X_2e7d0375/20/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LwX3lgTsyIERRbvJdHj0lCjUqU.jpg",The Witch. Revenge (2024)
+https://ss12.silkanu.cc/data/5/6729b9cfd5caf/hls480/6729b9cfd5caf480.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/04/The.Witch.Revenge.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uLEL4AxKOn6pZQAF3gWXbqSkhIo.jpg",The Jack in the Box Rises (2024)
+https://ss02.tubzde.cc/data/6/6729bbb1607b1/hls480/6729bbb1607b1480.m3u8|referer=https://ss02.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/04/The.Jack.in.the.Box.Rises.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/e8W2ybPj3lQiDTAoWfofxAXVkoL.jpg",Attack of the Meth Gator (2024)
+https://ss04.silkanu.cc/data/B/6729bb1736a98/hls480/6729bb1736a98480.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2024/11/uCgugFcAK7hOEFSuG9aL15GHJgt-146x218.jpg",Break War (2024)
+https://stream.hownetwork.xyz/xxx/break-war-2024-webdl_X_e4b2efc7/1000/480.m3u8
+https://seneng.org/v/driveid-191451-webdl-1080-terbit21-com-break-war-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/p2aM5FtUHmKp28AfiZCP6rkQJiw.jpg",Clawfoot (2024)
+https://ss03.silkanu.cc/data/9/672949ed96ed5/hls720/672949ed96ed5720.m3u8|referer=https://ss03.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/uV0tZkugXfp3P91XX8yxZyodaHO.jpg",Greatest Cartoons of the Golden Era Vol. 2 (2024)
+https://ss01.tubzde.cc/data/C/6729494b2e856/hls720/6729494b2e856720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/y8tbZ6MP4kAyGFkgFxjwcj8VHHI.jpg",50 km/h (2024)
+https://ss08.tubzde.cc/data/B/67294850e4249/hls720/67294850e4249720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/sBhiNYojxToIX0j4l9jahR62Zs8.jpg",Restoring Grace (2024)
+https://ss07.tubzde.cc/data/2/6729471aa7cbf/hls720/6729471aa7cbf720.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/4614J2sHR6tsnVIXCXK3yubwwj4.jpg",Renee Gracie: Fireproof (2024)
+https://ss10.silkanu.cc/data/8/6728bf2d5749b/hls720/6728bf2d5749b720.m3u8|referer=https://ss10.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/7tltIsVonubKCBUVpzsfaK4FaDF.jpg",White Snake: Afloat (2024)
+https://ss05.silkanu.cc/data/9/6728be9b0ef4d/hls720/6728be9b0ef4d720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/9zP65lNbCEiKv4bv0Ieq6zEy6mg.jpg",The Man Who Loved UFOs (2024)
+https://ss07.tubzde.cc/data/5/6728bb2a7b170/hls720/6728bb2a7b170720.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/qjecaspP70FPUL8G6TxzKYplDw3.jpg",The Devil’s Climb (2024)
+https://ss05.silkanu.cc/data/0/6727eca266eaf/hls720/6727eca266eaf720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/8RyWAkp2I8MiappqzmnCFIO6trJ.jpg",The Stoic (2024)
+https://ss06.tubzde.cc/data/F/6727ebfaa0e24/hls720/6727ebfaa0e24720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/dIrWzP5uLvZhtuDqRuGmjhNZHeS.jpg",My Dreams of You (2024)
+https://ss01.tubzde.cc/data/3/6727ea10d6337/hls720/6727ea10d6337720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/eFPSEfNovs5ve1TTu0fRTQQ43sg.jpg",ZEF – The Story of Die Antwoord (2024)
+https://ss12.silkanu.cc/data/4/6727dc9faa1db/hls720/6727dc9faa1db720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/nIVt1Jr37o5U9opboyBjs6zZ9mB.jpg",Striking The Palace (2024)
+https://ss09.tubzde.cc/data/2/6727dbbb44c54/hls720/6727dbbb44c54720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/8cVqcWHsI6PrS2X4fZ33vRBGj1H.jpg",Untapped: Closing America’s Opportunity Gap (2024)
+https://ss11.silkanu.cc/data/5/6727dc2b34544/hls720/6727dc2b34544720.m3u8|referer=https://ss11.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://image.tmdb.org/t/p/w185/v4baAGIyG7UT0kPe1s1EtU350bJ.jpg",Robert Downey Jr.: High Altitude (2024)
+https://ss10.silkanu.cc/data/A/6727dab79ea03/hls720/6727dab79ea03720.m3u8|referer=https://ss10.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFkYjI3MjQtMzVkYy00ODc3LWFlMjgtYTgyMmYzZGRhOTRhXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",Juror #2 (2024)
+https://ss12.silkanu.cc/data/2/67298699d1a47/hls720/67298699d1a47720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjVmNGE0MmMtMzYzYS00NWY0LTg1ZTYtMmVhNjg4YTMyNzY1XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",Shush (2024)
+https://ss06.tubzde.cc/data/1/6728651881111/hls720/6728651881111720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJlYWY4MTktOGFiNC00MjQxLTllMGEtZGI0MmNmM2Q2YjIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",Rust 3 (2024)
+https://ss12.silkanu.cc/data/7/67285bcb7918b/hls720/67285bcb7918b720.m3u8|referer=https://ss12.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkzNjExY2UtODQyNi00NjFjLWJkODctNWYwOWJmYjc3NGU1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",Peccatum (2024)
+https://ss02.tubzde.cc/data/D/672858b28ef27/hls720/672858b28ef27720.m3u8|referer=https://ss02.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5NDZjN2ItZTgyYi00YzkyLWEyOTktOTExMTNlNmRjZjVmXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",Doraemon : Nobita’s Earth Symphony (2024)
+https://ss05.silkanu.cc/data/7/672a9408f3abd/hls480/672a9408f3abd480.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://ss08.tubzde.cc/data/1/672787fc986ee/hls720/672787fc986ee720.m3u8|referer=https://ss08.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-cellar-door-2024-lk21-d21.jpg.webp",Cellar Door (2024)
+https://stream.hownetwork.xyz/xxx/cellar-door-2024-webdl_X_e4bdcdb8/26/480.m3u8
+https://ss11.silkanu.cc/data/6/67296b3c8c107/hls720/67296b3c8c107720.m3u8|referer=https://ss11.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/04/Cellar.Door.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/11/film-my-freaky-family-2024-lk21-d21.jpg.webp",My Freaky Family (2024)
+https://stream.hownetwork.xyz/xxx/my-freaky-family-2024-webdl_X_bb5651ff/26/480.m3u8
+https://ss07.tubzde.cc/data/E/672986440668a/hls720/672986440668a720.m3u8|referer=https://ss07.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/04/My.Freaky.Family.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/11/film-kali-2024-lk21-d21.jpg.webp",Kali (2024)
+https://stream.hownetwork.xyz/xxx/kali-2024-webdl_X_bb1ef2ca/26/480.m3u8
+https://ss01.tubzde.cc/data/1/6729748e32d2d/hls720/6729748e32d2d720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/04/Kali.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBhN2QyNmYtOTI5NC00ZGE0LTljNmMtMTYwOWE0NjRiODA3XkEyXkFqcGc@._V1_QL75_UX380_CR0,57,380,562_.jpg",Blade of Fury (2024)
+https://ss05.silkanu.cc/data/7/67270a89b47ef/hls720/67270a89b47ef720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1Njk3NzYtY2NlNC00MDk0LWExNzAtY2I3M2U5NzUzMjRkXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",Santa Hunters (2024)
+https://ss06.tubzde.cc/data/F/672648f9d5b71/hls720/672648f9d5b71720.m3u8|referer=https://ss06.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY2MTVhZGMtNWFiZS00ODgxLWIzZjEtMmE3M2ViZGFlYWIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",Art of a Hit (2024)
+https://ss02.tubzde.cc/data/5/6726477b83b00/hls720/6726477b83b00720.m3u8|referer=https://ss02.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/03/film-aftermath-2024-lk21-d21.jpg.webp",Aftermath (2024)
+https://ss04.silkanu.cc/data/4/6725afcec0fc5/hls720/6725afcec0fc5720.m3u8|referer=https://ss04.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://stream.hownetwork.xyz/xxx/aftermath-2024-bluray_X_a4e2c483/1000/480.m3u8
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/06/Aftermath.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/11/film-72-hours-2024-lk21-d21.jpg.webp",72 Hours (2024)
+https://stream.hownetwork.xyz/xxx/72-hours-2024-webdl_X_437586b5/26/480.m3u8
+https://ss05.silkanu.cc/data/1/6727598f56263/hls720/6727598f56263720.m3u8|referer=https://ss05.silkanu.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/03/72.Hours.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/11/film-levels-2024-lk21-d21.jpg.webp",Levels (2024)
+https://stream.hownetwork.xyz/xxx/levels-2024-webdl_X_f5005815/26/480.m3u8
+https://seneng.org/v/driveid-191453-webdl-1080-terbit21-com-levels-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/03/Levels.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIE SATURDAY" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/11/film-war-blade-2024-lk21-d21.jpg.webp",War Blade (2024)
+https://stream.hownetwork.xyz/xxx/war-blade-2024-webdl_X_2578ba2e/26/480.m3u8
+https://ss09.tubzde.cc/data/F/672599accccd0/hls720/672599accccd0720.m3u8|referer=https://ss09.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Nov/03/War.Blade.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 
 
