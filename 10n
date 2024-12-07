@@ -1256,6 +1256,12 @@ https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6b/db/51/6bdb515a1699ad820fd3492f1e433ba1.jpg" group-title="☆OLAHRAGA☆",Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a6ade57e9ae9cea4b28633888a84c448":"84e4765e17259dd014b51d2d166ac63e"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3a/9d/19/3a9d19294cbefb901cd1cb0d1b8e58c0.jpg" group-title="☆OLAHRAGA☆", SETANTA SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1432,19 +1438,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
-
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/f0/bf/71/f0bf711c06447746faba428ebd5d9cf5.jpg",》DAZN LIVE EVEN
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz1.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/a3/c2/8f/a3c28f93c660b3b2c018a88d5f12cf41.jpg",》DAZN LIVE EVEN 
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz2.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/b6/35/b3/b635b3079ac1dc12cb33afccf3742e65.jpg",》DAZN LIVE EVEN
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz3.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/ed/4a/0e/ed4a0e2870d70a9974990c3590491c92.jpg",》DAZN LIVE EVEN
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Dz4.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/18/53/03/18530399b7d3b4a9247ec9ee49096c08.jpg",EUROSPORT 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Euspt.m3u8
-#EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/f6/07/30/f60730ad7a3f1ae8e6f06356f7e4e917.jpg",EUROSPORT 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Euspt2.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/75/64/a4/7564a459cb586db9a296d12a2688142e.jpg", SKY SPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1743,40 +1736,35 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6317&type=dash
 
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/1e/92/3f1e92b59126df08f0fd2ee3d88c07f2.jpg" group-title="☆SPORT+☆",TSN
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/1e/92/3f1e92b59126df08f0fd2ee3d88c07f2.jpg" group-title="☆SPORT+☆",TSN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"21afccfca882b6fd029bfbf101b039c4":"4178b215436eb40ec733adc233ff1760"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e7/7f/5c/e77f5c432dea5afe4b15a0a859081b1f.jpg" group-title="☆SPORT+☆",TSN 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8097f89903c0c6afbe3fbb4f82c07e12":"0e9dde48ac7cbe59447e68d6eefe7583"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ee/47/34/ee47347c949e9766ab8ae5901b9f5030.jpg" group-title="☆SPORT+☆",TSN 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3d1c52f71333f0651f9b7971eba4d6d7":"5394d82a0d04a629f95b83ce6612973b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/d4/a6/3fd4a69c1b45c9e9e1b2fa6868851e9b.jpg" group-title="☆SPORT+☆",TSN 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ea/a9/cb/eaa9cb886054bd0ef6ba28311ff07280.jpg" group-title="☆SPORT+☆",TSN 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
-https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 ================================================== UFC ==========================================================
 
@@ -2047,35 +2035,20 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunk
 ========================================================= BIOSKOPHBO =============================================================
 ##EXTINF:-1 group-logo="https://i.pinimg.com/236x/ee/46/d0/ee46d079eeaab4218fc3fb7557c85ade.jpg" group-title="BIOSKOP HBO"
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX"
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",RELAX BEAUTIFUL AIR BALLONS
-https://raw.githubusercontent.com/Cutsiffa/on/main/Relax.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",RELAX CORAL REEF FISH
-https://raw.githubusercontent.com/Cutsiffa/on/main/Relax2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",RELAX FIRE PLACE GUITAR MUSIC
-https://raw.githubusercontent.com/Cutsiffa/on/main/Relax3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",RELAX WORLD BEAUTY
-https://raw.githubusercontent.com/Cutsiffa/on/main/Relax4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",FIRE
-http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",FISH
-http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",FOREST
-http://iptv.prosto.tv:7000/ch304/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX",FIRE 2
-http://iptv.prosto.tv:7000/ch318/video.m3u8
+==========================
+##EXTINF:-1 group-logo="https://i.pinimg.com/236x/aa/75/42/aa7542770f7096d30470d7e4187aff52.jpg" group-title="4K RELAX"
 
 =============================================== EPL =================================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆"
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK A SCHED
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK B
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK A sched
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2108,12 +2081,10 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK F
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7af7c0ac3c77478be9712bfc0f0d28b4":"845b9d91cefb70530380e8749d8dc201"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK G
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2123,25 +2094,22 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK H
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
+https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK I
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1 LINK J
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
-https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4ca1cf7890604c98959160aa80a8fc3e":"4a545ab7495d40f186a5bf3d88d47802"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
@@ -2556,6 +2524,42 @@ https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/g
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium467/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z6 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z4 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e9/fe/b4/e9feb498e595447534da7b1e302931af.jpg", group-title="☆SPORT+☆",Z5 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
 
 ======================================= BIOSKOP ==============================================
 
