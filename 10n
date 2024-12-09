@@ -2316,6 +2316,8 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lalilagspain.jpg" group-title="☆LIGA SPANYOL☆", LINK 6
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lispa/Lis6.m3u8
 
+
+#EXTM3U billed-msg="🔵NOTE.PLAYLIST exp:9 DEC24🔵"
 ====================================================== LIGA CHAMPION ==================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg" group-title="🏆LIGA CHAMPION"
