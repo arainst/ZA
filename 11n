@@ -143,7 +143,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTM3U billed-msg="🔵HAYOO..PAKAI PLAYLIST ARAI YA..🤣🤣"
+#EXTM3U billed-msg="🔵LETS PLAY"
 
 ========================================================== BERITA =====================================================================
 
@@ -282,7 +282,7 @@ https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/81/8b/3f818b02c439645bb5ad2e06c76a3b2b.jpg" group-title="mmmmm",TV5Monde
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/81/8b/3f818b02c439645bb5ad2e06c76a3b2b.jpg" group-title="🔵BERITA",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ef/29/45/ef2945b51bae2e493c0fcc6b069cf316.jpg" group-title="🔵BERITA",RTP Internacional
@@ -305,7 +305,7 @@ https://tx1.nexgen.bz/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.pinimg.com/236x/40/89/74/40897471f830e2a531c1a32d0c3b650d.jpg" group-title="🔵BERITA",France 24 int
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
-#EXTINF:-1 tvg-id="TIMES NOW.in" tvg-logo="https://i.pinimg.com/236x/96/92/78/96927856b12da3615ff8693141fadf68.jpg" group-title="mmmmmm",Times Now
+#EXTINF:-1 tvg-id="TIMES NOW.in" tvg-logo="https://i.pinimg.com/236x/96/92/78/96927856b12da3615ff8693141fadf68.jpg" group-title="🔵BERITA",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4d/9a/42/4d9a426d29d776f226647d1ebbca0473.jpg" group-title="🔵BERITA",Bilyo PH
@@ -693,7 +693,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BTR9YYG.png?v=1.0.0.1" group-title="Fashion", KALOOPY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTR9YYG.png?v=1.0.0.1" group-title="》FAS_&_LIFE", KALOOPY TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg" group-title="》FAS_&_LIFE",TLC
