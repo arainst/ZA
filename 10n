@@ -154,7 +154,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTM3U billed-msg="🔵UPDATE CHANNEL..."
+#EXTM3U billed-msg="🔵MOVIE SATURDAY SUDAH UPDATE"
 
 ========================================================== BERITA =====================================================================
 
@@ -1249,12 +1249,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/5f/d9/37/5fd93746d8df4cb543bd882c2a411652.jpg" group-title="🔵FILM", UNIVERS TV
-https://streaming.indihometv.com/joss/130/studiouniversal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBD700011RE" tvg-name="GRAVITAS MOVIES" tvg-logo="https://i.pinimg.com/236x/2f/9c/a3/2f9ca3b1402d52d0ff74ed0ab9c85ca9.jpg" group-title="🔵FILM" , GRAVITAS MOVIES
-https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a7/23/e2/a723e2f5869a77db04c481a10cdb3ded.jpg" group-title="🔵FILM", TAMC
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
@@ -1716,83 +1710,43 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/75/64/a4/7564a459cb586db9a296d12a2688142e.jpg", SKY SPORT 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
-#https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
+https://webhdrunns.mizhls.ru/lb/premium588/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky1.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/5e/df/58/5edf58ae464667c46b3c797dcece2567.jpg", SKY SPORT 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef909acce1f53f5db2a1cdafd2e90000:aba1269d685f474fbddf97ce2b45c725
-#https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky2.m3u8
+https://webhdrunns.mizhls.ru/lb/premium589/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky2.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/a8/53/87/a8538768d2b2536509bab31fb17af993.jpg", SKY SPORT 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79553de34321f11972a72b1e34620000:6f134b10fed345c8be29ab4b318ce502
-#https://linear-s.media.skyone.co.nz/sky-sport-3.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
+https://webhdrunns.mizhls.ru/lb/premium590/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky3.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/f4/24/01/f424015468776c2839b586b28d9ffae1.jpg", SKY SPORT 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky4.m3u8
+https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky4.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/af/66/25/af6625490a7ad35ae8e52db2a62ab286.jpg", SKY SPORT 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
-#https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky5.m3u8
+https://webhdrunns.mizhls.ru/lb/premium592/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky5.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/e6/b1/a8/e6b1a8934c1eea1dcc2337259e3cc7ca.jpg", SKY SPORT 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1c36ae483b44fc78025fae101030000:e4ea0adb660139309ab060cfed1a9d3a
-#https://linear-s.media.skyone.co.nz/sky-sport-6.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky6.m3u8
+https://webhdrunns.mizhls.ru/lb/premium593/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky6.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/48/d8/4c/48d84c56180998425c3c5925749aeac2.jpg", SKY SPORT 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2fcb4139149486facbfa3192ae00000:f72cfa3a2c1b1f5575421e835ca2a59b
-#https://linear-s.media.skyone.co.nz/sky-sport-7.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
+https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky7.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/c2/6a/5f/c26a5fb715aa7acb07fe1dce237d484e.jpg", SKY SPORT 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8997f53b7494072bdc5c8d1c5f30000:bde3d1054eea001d0693bb846e124e75
-#https://linear-s.media.skyone.co.nz/sky-sport-8.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
+https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky8.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://i.pinimg.com/236x/37/e5/b1/37e5b1344c0386bec2bc7cf198bec8d8.jpg", SKY SPORT 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3615431ccb4a14aedc75dbea7c0000:b50ae9ebd7274c90244989fed8061e7b
-#https://linear-s.media.skyone.co.nz/sky-sport-9.mpd
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
+https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Sky9.m3u8
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", SKY SELECT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aea66cdd9fea4096a81c9640c22f0000:c6a0d6507a25539719272484c7764742
-https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
+https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-title="☆SPORT+☆" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -1941,15 +1895,20 @@ http://tv.amplista.com/live/gamaliel/2019/147225.ts
 #https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="☆SPORT+☆",SPORTPLUS 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F1.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="☆SPORT+☆",SPORTPLUS 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F2.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="☆SPORT+☆",SPORTPLUS 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp3.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/B%E2%97%8B%C2%A3%401.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="☆SPORT+☆",SPORTPLUS 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/B%E2%97%8B%C2%A3%402.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="☆SPORT+☆",SPORTPLUS 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
+https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/G%C2%AE%EF%B8%8F%E2%88%86%CF%80d%24t%E2%88%86%CF%80d.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/6e/0e/4b6e0e70a45f9edc3e36568020fcaa53.jpg" group-title="☆SPORT+☆",LIGA_BRAZIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2769,6 +2728,14 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/04/Venom.The.L
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", HERETIC 2024
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Heretic.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", GLADIATOR II 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/11/Gladiator.II.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", RED ONE 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", MOANA 2024 (ANIMATION)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/10/Moana.2.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="INFO🔵🔵🔵🔵", KOLEKSI FILM INDO ADA DI GALERY MEDIA GUNAKAN VLC PLAYER
