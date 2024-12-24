@@ -154,7 +154,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTM3U billed-msg="🔵MOVIE SATURDAY SUDAH UPDATE"
+#EXTM3U billed-msg="🔵UPDATE MOVIE SATURDAY"
 
 ========================================================== BERITA =====================================================================
 
@@ -2736,6 +2736,14 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/11/Gladiator.I
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Red.One.2024.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", MOANA 2024 (ANIMATION)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/10/Moana.2.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", Snow White Christmas Adventure (famly) 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/05/Snow.Whites.Christmas.Adventure.2023.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", Kraven: Th Hunter 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/12/Kraven.The.Hunter.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", Officer Black Belt (action korea) 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Sep/08/Officer.Black.Belt.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/03/d3/ce/03d3ceae7937b2f4f4fbb2ee288d1852.jpg" group-title="MOVIE SATURDAY", Girl Haunt Boy (romance) 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/06/Girl.Haunts.Boy.2024.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/34/48/05/344805bc5b6aea9e5455d7054cb77c6d.jpg" group-title="INFO🔵🔵🔵🔵", KOLEKSI FILM INDO ADA DI GALERY MEDIA GUNAKAN VLC PLAYER
